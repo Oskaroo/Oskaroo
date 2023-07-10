@@ -14,7 +14,7 @@ I am an enthusiast of technology and love building software solutions. Currently
 
 ## Contact
 
-If you have any questions, collaboration proposals, or simply want to discuss programming, feel free to reach out to me. You can find me at email@example.com or visit my Linkedin profile: [LinkedIn](https://www.linkedin.com/in/oskar-michalski-30b71926b/).
+If you have any questions, collaboration proposals, or simply want to discuss programming, feel free to reach out to me. You can find me at oskarmno@gmail.com or visit my Linkedin profile: [LinkedIn](https://www.linkedin.com/in/oskar-michalski-30b71926b/).
 
 ---
 
