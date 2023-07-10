@@ -8,7 +8,7 @@ Hi there! I'm Oskar, a passionate programmer currently studying Applied Computer
 ---
 
 ## About Me
-I am an enthusiast of technology and love building software solutions. Currently, I am primarily focused on the .NET ecosystem, where I am gaining experience. However, I am always open to learning new technologies. In the near future, I also plan to delve into Java and expand my skills in that area.
+I am an enthusiast of technology and love building software solutions. Currently, I am primarily focused on the .NET, where I am gaining experience. However, I am always open to learning new technologies. In the near future, I also plan to delve into Java and expand my skills in that area.
 
 ---
 
