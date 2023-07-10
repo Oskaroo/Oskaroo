@@ -14,13 +14,13 @@ If you have any questions, collaboration proposals, or simply want to discuss pr
 
 Here are some of the technologies I'm interested in:
 
-- ![.NET](https://fontawesome.com/v5.15/icons/dotnet?style=brands) .NET: Description of .NET.
-- ![JavaScript](https://fontawesome.com/v5.15/icons/js?style=brands) JavaScript: Description of JavaScript.
-- ![Visual Studio](https://fontawesome.com/v5.15/icons/visual-studio?style=brands) Visual Studio: Description of Visual Studio.
-- ![Rider](https://fontawesome.com/v5.15/icons/jetbrains?style=brands) Rider: Description of Rider.
+- .NET: Description of .NET. ![.NET](https://simpleicons.org/icons/dotnet.svg)
+- JavaScript: Description of JavaScript. ![JavaScript](https://simpleicons.org/icons/javascript.svg)
+- Visual Studio: Description of Visual Studio. ![Visual Studio](https://simpleicons.org/icons/visualstudio.svg)
+- Rider: Description of Rider. ![Rider](https://simpleicons.org/icons/jetbrains.svg)
 
 ## Featured Project
 
-I would like to highlight my project called PhoneLink. It is a project that allows for seamless communication between devices. You can find the source code and more information about the project on [GitHub](https://github.com/Oskaroo/PhoneLink).
+This is my latest project, im still improving my knowledge, so it will be changed often. [GitHub](https://github.com/Oskaroo/PhoneLink).
 
 [![Oskaroo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Oskaroo)](https://github.com/anuraghazra/github-readme-stats)
