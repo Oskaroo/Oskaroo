@@ -39,5 +39,4 @@ This is my latest project, im still improving my knowledge, so it will be change
 #
 
 ### 📊 Stats
-
-[![Oskaroo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Oskaroo)](https://github.com/anuraghazra/github-readme-stats)
+![Oskaroo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Oskaroo&show_icons=true&theme=gruvbox)
