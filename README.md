@@ -14,10 +14,10 @@ If you have any questions, collaboration proposals, or simply want to discuss pr
 
 Here are some of the technologies I'm interested in:
 
-- .NET: Description of .NET. ![.NET](https://simpleicons.org/icons/dotnet.svg)
-- JavaScript: Description of JavaScript. ![JavaScript](https://simpleicons.org/icons/javascript.svg)
-- Visual Studio: Description of Visual Studio. ![Visual Studio](https://simpleicons.org/icons/visualstudio.svg)
-- Rider: Description of Rider. ![Rider](https://simpleicons.org/icons/jetbrains.svg)
+- .NET: Description of .NET. <i class="fab fa-dotnet"></i>
+- JavaScript: Description of JavaScript. <i class="fab fa-js"></i>
+- Visual Studio: Description of Visual Studio. <i class="fab fa-vstudio"></i>
+- Rider: Description of Rider. <i class="fab fa-jetbrains"></i>
 
 ## Featured Project
 
