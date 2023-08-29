@@ -25,8 +25,6 @@ If you have any questions, collaboration proposals, or simply want to discuss pr
 <img align="left" alt="Rider" width="100px" style="padding-right:10px;" src="https://img.shields.io/badge/Rider-000000.svg?style=for-the-badge&logo=Rider&logoColor=white&color=black&labelColor=crimson"/>
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 
 
@@ -38,5 +36,3 @@ This is my latest project, im still improving my knowledge, so it will be change
 
 #
 
-### 📊 Stats
-![Oskaroo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Oskaroo&show_icons=true&theme=gruvbox)
