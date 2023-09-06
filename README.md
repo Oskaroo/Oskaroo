@@ -29,7 +29,7 @@ If you have any questions, collaboration proposals, or simply want to discuss pr
 
 ### 📕 Latest Project
 
-This is my latest project, im still improving my knowledge, so it will be changed often. [GitHub](https://github.com/Oskaroo/MyRPG).
+This is my latest project, im still improving my knowledge, so it will be changed often. [Project](https://github.com/Oskaroo/MyRPG).
 ![Rpg](https://github.com/Oskaroo/MyRPG/assets/106118915/20201266-d4b7-41f8-af8a-959ca9e4555b)
 #
 ---
