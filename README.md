@@ -19,11 +19,13 @@ If you have any questions, collaboration proposals, or simply want to discuss pr
 ---
 
 ### 🧰 Languages and Tools
-<img align="left" alt=".net" width="80px" style="padding-right:10px;" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/>
-<img align="left" alt="C#" width="70px" style="padding-right:10px;" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/>
-<img align="left" alt="Rider" width="100px" style="padding-right:10px;" src="https://img.shields.io/badge/Rider-000000.svg?style=for-the-badge&logo=Rider&logoColor=white&color=black&labelColor=crimson"/>
-<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-#
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img alt=".NET" width="80px" style="padding-right:10px;" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/>
+    <img alt="C#" width="70px" style="padding-right:10px;" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+    <img alt="JavaScript" width="35px" style="padding-right:15px;" src="https://skillicons.dev/icons?i=java" />
+  </a>
+</p>
 
 ---
 
