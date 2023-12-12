@@ -31,7 +31,7 @@ If you have any questions, collaboration proposals, or simply want to discuss pr
 
 ### 📕 Latest Project
 
-This is my latest project, im still improving my knowledge, so it will be changed often. [Project](https://github.com/Oskaroo/MyRPG).
-![Rpg](https://github.com/Oskaroo/MyRPG/assets/106118915/89511cf9-f5dd-4efa-ab1a-3d4fca43d555)
+This is my latest project, im still improving my knowledge, so it will be changed often. [Project](https://github.com/Oskaroo/TeslaRenting).
+![logo5_retina](https://github.com/Oskaroo/TeslaRenting/assets/106118915/585edc20-2503-41c6-8b48-34aed6519bf0)
 #
 ---
