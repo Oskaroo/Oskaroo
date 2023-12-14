@@ -1,5 +1,5 @@
 # 🏄‍♂️  Oskaroo
-**`Digital Craftsman (Developer/TattooArtist)`**
+**`Junior Fullstack Developer`**
 
 Hi there! I'm Oskar, a passionate programmer currently studying Applied Computer Science with a focus on application development. I have a strong interest in backend development and aspire to become a full-stack developer in the future.
 - 🥅 2023 Goals - Acquire extensive knowledge about .NET
