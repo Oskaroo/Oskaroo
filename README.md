@@ -39,3 +39,30 @@ My work is strongly domain-driven — I work close to systems such as **Transpor
 - Backend modules with complex business logic (pricing, settlements, billing)
 - React-based operational UIs
 - Data-heavy features and exports (PDF / Excel)
+
+---
+
+## 🧪 Side Projects & Ongoing Learning
+Alongside my professional work, I actively develop **private side projects** to deepen my understanding of technologies I don’t use daily in my current role.
+
+I currently focus on:
+- containerization and deployment concepts (Docker)
+- microservices architecture
+- basic Kubernetes concepts
+- system design and scalability considerations
+
+### Spotted
+
+<img src="https://github.com/user-attachments/assets/17b8a929-0b2f-44b8-8093-ba7ead156917" width="250"/>
+
+A social / dating application developed as part of my engineering thesis.  
+The project reached a functional prototype stage but was **paused due to funding limitations and cold-start challenges**.
+
+### Fluxo
+
+<img src="https://github.com/user-attachments/assets/a2d18dd9-6d51-4561-9fae-03afcc1c3b2f" width="300"/>
+
+
+An actively developed **CRM application** designed to support individuals and small teams (JDG / small businesses) in managing clients, tasks, and daily operations.
+
+---
