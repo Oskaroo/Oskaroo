@@ -1,36 +1,41 @@
-# 🏄‍♂️  Oskaroo
-**`Junior Fullstack Developer`**
+# 🏄‍♂️ Oskaroo
+**Full-Stack Developer (.NET / React)**
 
-Hi there! I'm Oskar, a passionate programmer currently studying Applied Computer Science with a focus on application development. I have a strong interest in backend development and aspire to become a full-stack developer in the future.
--  😻 If you like tattoos, than check my ig profile: [![Instagram](https://img.shields.io/badge/Instagram-oskarinio_-orange?logo=instagram&logoColor=white&style=flat-square)](https://www.instagram.com/oskarinio_)
+Hi! I'm Oskar — a backend-focused full-stack developer building **production-grade web applications**.  
+I work mainly with **.NET, ASP.NET Web API, EF Core, PostgreSQL**, and **React**, delivering systems used in real business environments.
 
----
-
-## About Me
-I am an enthusiast of technology and love building software solutions.
-Currently, I am working in Fulogics company as Junior FullStack Developer .
+My work is strongly domain-driven — I work close to systems such as **Transport Management Systems (TMS)** and **ERP-like internal platforms**, where business logic, data consistency, and correctness really matter.
 
 ---
 
-## Contact
-
-If you have any questions, collaboration proposals, or simply want to discuss programming, feel free to reach out to me. You can find me at oskarmno@gmail.com or visit my Linkedin profile: [LinkedIn](https://www.linkedin.com/in/oskar-michalski-30b71926b/).
+## 💼 About Me
+- Full-Stack Developer at **Fulogics**
+- Backend-oriented, but comfortable across the full stack
+- Experience building and maintaining **production systems** for logistics and construction
+- Focused on pricing engines, settlements, billing, and operational workflows
 
 ---
 
-### 🧰 Languages and Tools
+## 📬 Contact
+- 📧 Email: **oskarmno@gmail.com**
+- 💼 LinkedIn: [linkedin.com/in/oskar-michalski](https://www.linkedin.com/in/oskar-michalski-30b71926b/)
+
+---
+
+## 🧰 Tech Stack
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img alt=".NET" height="40px" style="padding-right:10px;" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/>
-    <img alt="React" height="40px" style="padding-right:10px;" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  </a>
+  <img alt=".NET" height="40px" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/>
+  <img alt="C#" height="40px" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
+  <img alt="ASP.NET Web API" height="40px" src="https://img.shields.io/badge/ASP.NET_Web_API-512BD4?style=for-the-badge"/>
+  <img alt="EF Core" height="40px" src="https://img.shields.io/badge/EF_Core-512BD4?style=for-the-badge"/>
+  <img alt="PostgreSQL" height="40px" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img alt="React" height="40px" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 </p>
 
 ---
 
-### 📕 Latest Project
-
-This is my latest project, im still improving my knowledge, so it will be changed often. [Project](https://github.com/Oskaroo/TeslaRenting).
-![logo5_retina](https://github.com/Oskaroo/TeslaRenting/assets/106118915/585edc20-2503-41c6-8b48-34aed6519bf0)
-#
----
+## 🚀 What I Build
+- REST APIs (ASP.NET Web API)
+- Backend modules with complex business logic (pricing, settlements, billing)
+- React-based operational UIs
+- Data-heavy features and exports (PDF / Excel)
